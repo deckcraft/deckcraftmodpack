@@ -1,0 +1,8 @@
+(CURSEFORGE)
+- Changed Loader to Fabric
+- Updated Mods to remove Quilt ones
+- Fixed Update Checker
+(MODRINTH)
+NONE
+(BOTH)
+NONE
