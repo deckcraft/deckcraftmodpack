@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+     "id": "1.0.0",
+    "releasedat": 999999999,
+    "promotions": {
+      "downloads": {
+        "modrinth": "https://modrinth.com/modpack/deck-craft-client-midnight",
+        "curseforge": "https://www.curseforge.com/minecraft/modpacks/deck-craft-midnightclient",
+      }
+    }
+}  
+  ]
+}
