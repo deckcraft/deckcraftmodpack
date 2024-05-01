@@ -1,0 +1,8 @@
+(CURSEFORGE) 
+- set loader to fabric
+- uploaded file
+- updated mods
+(MODRINTH)
+- uploaded file
+(BOTH)
+NONE
