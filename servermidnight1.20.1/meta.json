@@ -2,6 +2,17 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
+    {
+        "id": "1.0.0",
+        "releasedAt": 209384093820,
+        "promotions": {
+          "downloads": {
+            "modrinth": "https://modrinth.com/modpack/deck-craft-(server-midnight)/",
+            "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/deckcraft-server-midnight/",
+            "generic": "",
+          }
+        }
+    }
  
   ]
 }
